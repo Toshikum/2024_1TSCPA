@@ -1,3 +1,5 @@
 primeiro arquivo.txt no github
 
 alteracao feita qunado estava na branch fga
+
+alterado o arquivo no repositório local
